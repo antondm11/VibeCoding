@@ -2,7 +2,7 @@
 Repo para la página web hecha con IA de Visual Studio Code
 
 
-#PROMPT 1 (prueba)
+## PROMPT 1 ##
 
 Me gustaría realizar una página web que recoja algunos de los monoplazas más originales que han competido en Fórmula 1. Quiero que sea una landing page sencilla, que utilice sólo HTML, CSS y Javascript (vanilla, sin ningún tipo de framework). La página debe ser responsiva para garantizar que se vea adecuadamente en diferentes dispositivos (ordenador, tablet, smartphone) independientemente de la resolución
 Quiero que la página muestre en primer lugar un texto introductorio que ponga en valor la originalidad en el diseño del monoplaza y el buscar diferenciarse del resto, incluso si los resultados deportivos no acompañan. 
@@ -220,6 +220,25 @@ Diseño: James Allison, John Owen y Jarrod Murphy
 Una vez hayas terminado con la sección de todos los coches, me gustaría un gráfico de barras en la que aparezcan los podios que logró cada coche con respecto a todas las carreras en las que compitió. Debajo de cada barra aparece el nombre del coche y cada barra tiene la altura del número de podios de su respectivo monoplaza. Puedes extraer dichos datos, si puedes, de páginas como StatsF1 o Wikipedia.
 
 Por último, en la parte de abajo de la página, quisiera un enlace a mi correo electrónico para cualquier. Utiliza la etiqueta correspondiente con este email: “antondm11@gmail.com”
+
+
+
+## PROMPT 2 ##
+
+En general me gusta lo que veo, pero creo que se podrían mejorar cosas. 
+Por ejemplo, de contenido lo veo muy bien, pero me gustaría que refinaras algunas secciones de texto modificandolas sólo mínimamente, especialmente sin alterar apenas las explicaciones técnicas que me gustan bastante, para sólo agregar lo que yo te diga:
+-En el texto del Brabham BT46B, añade alguna referencia sobre que Niki lauda calificó aquella victoria en Anderstorp como la más fácil de su vida. Y si puedes, haz una alusión a que Gordon Murray se inspiraría en aquel conecpto del ventilador para el McLaren F1 15 años después.
+-En el texto del Williams FW26, alude a que a mitad de temporada el equipo implementó una parte delantera convencional después del quebradero de cabeza que dio su puesta a punto.
+-En el texto del Force India, añade el fundamento técnico del S-Duct para el alerón delantero, así como un breve resumen de cóm su sucesor, el VJM09 de 2016, consolidó el concepto y llevó al equipo a su mejor temporada.
+
+Y por otro lado, las imágenes no se ven completas. Hay algunas que no se ven bien y te las paso de nuevo:
+
+En cuanto a estética, está bien organizado, pero me gustaría que fuese más agradable a la vista. Prueba con un fondo más oscuro y el texto en blanco, aunque siempre ajustándose a la temática de la web.
+
+Y el gráfico de podios, no es lo suficientemente preciso. Me gustaría que lo revisaras y que, al igual que las imágenes, lo hicieran más agradable a la vista y más intuitivo de moverse por él. Utiliza una barra deslizante si es necesario.
+
+Y por último, si puedes crear algunos botones tras el texto introductorio. Por ejmplo, un botón que lleve a la sección de cada coche y al gráfico de la parte final.
+
 
 
 
