@@ -21,114 +21,178 @@ Por tanto, me gustaría que a partir de ahora me vayas generando los apartados p
 Nombre del coche:
 Tyrrell P34 – 1976
 Imagen del coche: 
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/Tyrrell%20P34.jpg
+
 Aquí iría el texto
 Pilotos:
 Jody Scheckter
+
 Imagen: https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/JodyScheckter1976.jpg
+
 Patrick Depailler
+
 Imagen: https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/PatrickDepailler1976.jpg
+
 Ronnie Peterson
 Imagen:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/RonniePeterson1976.jpg
+
 Diseño: Derek Gardner
 
 A partir de aquí repetir el mismo proceso para los demás coches
 
 Brabham BT46B – 1978
 Imagen del coche:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/BrabhamBT46B.jpg
+
 Aquí el texto
 Pilotos:
 Niki Lauda
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NikiLauda1978.jpg
+
 John Watson
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/JohnWatson1978.jpg
+
 Diseño: Gordon Murray
 
 Tyrrell 019 - 1990
 Imagen del coche:
-https://github.com/antondm11/VibeCoding/blob/main/images/Coches/Tyrrell019.jpg+
+
+https://github.com/antondm11/VibeCoding/blob/main/images/Coches/Tyrrell019.jpg
+
 Texto
 Pilotos
 Jean Alesi:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/JeanAlesi1990.jpg
+
 Satoru Nakajima:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/SatoruNakajima1990.jpg
+
 Diseño: Harvey Postlethwaite y Jean-Claude Migeot
 
 Modena Lambo 291 - 1991
 Imagen del coche:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/ModenaLambo291.jpg
+
 Texto
 Pilotos:
 Nicola Larini
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicolaLarini1992.jpg
+
 Eric van de Poele
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/EricVanDePoele1992.jpg
+
 Diseño: Mauro Forghieri y Mario Tolentino
 
 Ferrari F92A - 1992
 Imagen del coche:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/FerrariF192A.jpg
+
 Texto
 Pilotos:
 Jean Alesi
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/JeanAlesi1992.jpg
+
 Ivan Capelli
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/IvanCapelli1992.jpg
+
 Nicola Larini
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicolaLarini1992.jpg
+
 Diseño: Harvey Postlethwaite y Jean-Claude Migeot
 
 Williams FW26 - 2004
 Imagen del coche:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/WilliamsFW26.jpg
+
 Texto:
 Pilotos:
 Juan Pablo Montoya
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/JuanPabloMontoya2004.jpg
+
 Ralf Schumacher
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/RalfSchumacher2004.jpg
+
 Marc Gené
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/MarcGene2004.jpg
+
 Antonio Pizzonia
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/AntonioPizzonia2004.jpg
+
 Diseño: Patrick Head y Antonia Terzi
 
 Renault R31
 Imagen del coche:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/RenaultR31.jpg
+
 Texto
 Pilotos:
 Nick Heidfeld
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NickHeidfeld2011.jpg
+
 Vitaly Petrov
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/VitalyPetrov2011.jpg
+
 Bruno Senna
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/BrunoSenna2011.jpg
+
 Diseño: James Allison y Dirk de Beer
 
 Force India VJM08B/VJM09 – 2015-2016
 Imagen del coche:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/ForceIndiaVJM08.jpg
+
 Texto
 Pilotos:
 Nico Hulkenberg
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicoHulkenberg2015.jpg
+
 Sergio Pérez
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/SergioPerez2015.jpg
+
 Diseño: Andrew Green, Ian Hall y Simon Phillips
 
 Mercedes W13 - 2022
 Imagen del coche:
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/MercedesW13.jpg
+
 Texto
 Pilotos:
 Lewis Hamilton
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/LewisHamilton2022.jpg
+
 George Russell
+
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/GeorgeRussell2022.jpg
+
 Diseño: James Allison, John Owen y Jarrod Murphy
 
 Una vez hayas terminado con la sección de todos los coches, me gustaría un gráfico de barras en la que aparezcan los podios que logró cada coche con respecto a todas las carreras en las que compitió. Debajo de cada barra aparece el nombre del coche y cada barra tiene la altura del número de podios de su respectivo monoplaza. Puedes extraer dichos datos, si puedes, de páginas como StatsF1 o Wikipedia.
