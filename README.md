@@ -7,7 +7,7 @@ Repo para la página web hecha con IA de Visual Studio Code
 Me gustaría realizar una página web que recoja algunos de los monoplazas más originales que han competido en Fórmula 1. Quiero que sea una landing page sencilla, que utilice sólo HTML, CSS y Javascript (vanilla, sin ningún tipo de framework). La página debe ser responsiva para garantizar que se vea adecuadamente en diferentes dispositivos (ordenador, tablet, smartphone) independientemente de la resolución
 Quiero que la página muestre en primer lugar un texto introductorio que ponga en valor la originalidad en el diseño del monoplaza y el buscar diferenciarse del resto, incluso si los resultados deportivos no acompañan. 
 En cuanto a la estética, quiero que la página luzca de acuerdo a su temática, sin que esté muy recargada y, a ser posible, priorizando la visibilidad de su contenido.
-De igual forma, habrá unas imágenes que están en carpetas del propio repositorio y quiero que cuando te pase su ruta me la traigas a la página.
+De igual forma, habrá unas imágenes que están en carpetas del propio repositorio y quiero que cuando te pase su ruta me la plasmes en la página.
 Lo siguiente, quiero que vayas colocando la información para cada coche. Me gustaría que tuviese la siguiente estructura:
 -	Nombre del coche
 -	Imagen del coche (que te la paso yo)
@@ -15,17 +15,18 @@ Lo siguiente, quiero que vayas colocando la información para cada coche. Me gus
 -	Apartado “Pilotos”:
 -	Imagen de los pilotos (que te lo paso yo)
 -	Nombre de cada piloto
--	Diseñadores
+-	Diseño
 
 Los coches sobre los que te pido que me generes la sección de la página son estos:
-Tyrrell P34
-Brabham BT46B
-Tyrrell 019
-Modena Lambo 291
-Ferrari F92A
-Williams FW26
-Renault R31
-Force India VJM08B
+
+Tyrrell P34,
+Brabham BT46B,
+Tyrrell 019,
+Modena Lambo 291,
+Ferrari F92A,
+Williams FW26,
+Renault R31,
+Force India VJM08B,
 Mercedes W13
 
 Por tanto, me gustaría que a partir de ahora me vayas generando los apartados para cada coche de acuerdo a la estructura que te he especificado
@@ -37,6 +38,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/Tyrrell%20P34.jpg
 
 Aquí iría el texto
+
 Pilotos:
 Jody Scheckter
 
@@ -61,6 +63,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/BrabhamBT46B.jpg
 
 Aquí el texto
+
 Pilotos:
 Niki Lauda
 
@@ -78,6 +81,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/Tyrrell019.jpg
 
 Texto
+
 Pilotos
 Jean Alesi:
 
@@ -95,6 +99,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/ModenaLambo291.jpg
 
 Texto
+
 Pilotos:
 Nicola Larini
 
@@ -112,6 +117,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/FerrariF192A.jpg
 
 Texto
+
 Pilotos:
 Jean Alesi
 
@@ -133,6 +139,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/WilliamsFW26.jpg
 
 Texto:
+
 Pilotos:
 Juan Pablo Montoya
 
@@ -158,6 +165,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/RenaultR31.jpg
 
 Texto
+
 Pilotos:
 Nick Heidfeld
 
@@ -179,6 +187,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/ForceIndiaVJM08.jpg
 
 Texto
+
 Pilotos:
 Nico Hulkenberg
 
@@ -196,6 +205,7 @@ Imagen del coche:
 https://github.com/antondm11/VibeCoding/blob/main/images/Coches/MercedesW13.jpg
 
 Texto
+
 Pilotos:
 Lewis Hamilton
 
