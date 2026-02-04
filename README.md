@@ -15,7 +15,19 @@ Lo siguiente, quiero que vayas colocando la información para cada coche. Me gus
 -	Apartado “Pilotos”:
 -	Imagen de los pilotos (que te lo paso yo)
 -	Nombre de cada piloto
--	Diseñadores 
+-	Diseñadores
+
+Los coches sobre los que te pido que me generes la sección de la página son estos:
+Tyrrell P34
+Brabham BT46B
+Tyrrell 019
+Modena Lambo 291
+Ferrari F92A
+Williams FW26
+Renault R31
+Force India VJM08B
+Mercedes W13
+
 Por tanto, me gustaría que a partir de ahora me vayas generando los apartados para cada coche de acuerdo a la estructura que te he especificado
 
 Nombre del coche:
