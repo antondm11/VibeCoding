@@ -237,13 +237,19 @@ Por ejemplo, de contenido lo veo muy bien, pero me gustaría que refinaras algun
 -En el texto del Force India, añade una mención al fundamento técnico del S-Duct para el alerón delantero, así como un breve resumen de cómo su sucesor, el VJM09 de 2016, consolidó el concepto y llevó al equipo a su mejor temporada hasta entonces.
 
 Y por otro lado, las imágenes no se ven completas. Hay algunas que no se ven bien y te las paso de nuevo:
+
 La imagen de John Watson
+
+https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/JohnWatson.jpg
 
 La imagen de Eric Van De Poele
 
+https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/EricVanDePoele.jpg
+
+
 La imagen de Nico Hulkenberg
 
-
+https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicoHulkenberg.jpg
 
 En cuanto a estética, está bien organizado, pero me gustaría que fuese más agradable a la vista. Prueba con un fondo más oscuro y el texto en blanco, aunque siempre ajustándose a la temática de la web.
 
