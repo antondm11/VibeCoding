@@ -253,7 +253,49 @@ https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicoHulkenberg.
 
 En cuanto a estética, está bien organizado, pero me gustaría que fuese más agradable a la vista. Prueba con un fondo más oscuro y el texto en blanco, aunque siempre ajustándose a la temática de la web.
 
-Y el gráfico de podios, no es lo suficientemente preciso. Me gustaría que lo revisaras y que, al igual que las imágenes, lo hicieran más agradable a la vista y más intuitivo de moverse por él. Utiliza una barra deslizante si es necesario.
+Y el gráfico de podios, no es lo suficientemente preciso. Me gustaría que lo revisaras y que, al igual que las imágenes, lo hicieras más agradable a la vista y más intuitivo de moverse por él. Utiliza una barra deslizante si es necesario. Te doy enlaces para que de ahí saques el número de podios de cada coche:
+
+-Tyrrell P34:
+
+https://www.statsf1.com/en/tyrrell-p34.aspx
+
+-Brabham BT46B:
+
+https://www.statsf1.com/en/brabham-bt46b.aspx
+
+-Tyrrell 019:
+
+https://www.statsf1.com/en/tyrrell-019.aspx
+
+-Modena Lambo 291:
+
+https://www.statsf1.com/en/lamborghini.aspx
+
+-Ferrari F921A:
+
+https://www.statsf1.com/en/ferrari-f92a.aspx
+
+-Williams FW26:
+
+https://www.statsf1.com/en/williams-fw26.aspx
+
+-Renault R31:
+
+https://www.statsf1.com/en/renault-r31.aspx
+
+-Force India VJM08:
+
+https://www.statsf1.com/en/force-india-vjm08.aspx
+
+-Force India VJM09:
+
+https://www.statsf1.com/en/force-india-vjm09.aspx
+
+-Mercedes W13:
+
+https://www.statsf1.com/en/mercedes-f1-w13.aspx
+
+
 
 Y por último, si puedes crear algunos botones tras el texto introductorio. Por ejmplo, un botón que lleve a la sección de cada coche y al gráfico de la parte final.
 
