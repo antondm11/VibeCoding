@@ -2,13 +2,13 @@
 const podiumData = [
     { name: 'Tyrrell P34', podios: 14 },
     { name: 'Brabham BT46B', podios: 1 },
-    { name: 'Tyrrell 019', podios: 1 },
+    { name: 'Tyrrell 019', podios: 2 },
     { name: 'Modena Lambo 291', podios: 0 },
     { name: 'Ferrari F92A', podios: 2 },
     { name: 'Williams FW26', podios: 4 },
     { name: 'Renault R31', podios: 2 },
     { name: 'Force India VJM08', podios: 1 },
-    { name: 'Force India VJM09', podios: 3 },
+    { name: 'Force India VJM09', podios: 2 },
     { name: 'Mercedes W13', podios: 17 }
 ];
 
@@ -160,3 +160,23 @@ if ('IntersectionObserver' in window) {
 
     images.forEach(img => imageObserver.observe(img));
 }
+
+// Abrir imagen completa al hacer clic (pilotos y coches)
+function enableImageClickToOpen() {
+    const imgs = document.querySelectorAll('.pilot img, .car-image img');
+    imgs.forEach(img => {
+        img.style.cursor = 'pointer';
+        img.addEventListener('click', (e) => {
+            // Si tiene data-src y aún no se ha cargado, usar data-src
+            const src = img.dataset.src || img.src;
+            if (src) {
+                window.open(src, '_blank', 'noopener');
+            }
+        });
+    });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Habilitar apertura de imagen tras carga del DOM
+    enableImageClickToOpen();
+});
