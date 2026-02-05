@@ -227,11 +227,23 @@ Por último, en la parte de abajo de la página, quisiera un enlace a mi correo 
 
 En general me gusta lo que veo, pero creo que se podrían mejorar cosas. 
 Por ejemplo, de contenido lo veo muy bien, pero me gustaría que refinaras algunas secciones de texto modificandolas sólo mínimamente, especialmente sin alterar apenas las explicaciones técnicas que me gustan bastante, para sólo agregar lo que yo te diga:
--En el texto del Brabham BT46B, añade alguna referencia sobre que Niki lauda calificó aquella victoria en Anderstorp como la más fácil de su vida. Y si puedes, haz una alusión a que Gordon Murray se inspiraría en aquel conecpto del ventilador para el McLaren F1 15 años después.
--En el texto del Williams FW26, alude a que a mitad de temporada el equipo implementó una parte delantera convencional después del quebradero de cabeza que dio su puesta a punto.
--En el texto del Force India, añade el fundamento técnico del S-Duct para el alerón delantero, así como un breve resumen de cóm su sucesor, el VJM09 de 2016, consolidó el concepto y llevó al equipo a su mejor temporada.
+
+-En el texto del Brabham BT46B, añade alguna referencia sobre que Niki Lauda calificó aquella victoria en Anderstorp como la más fácil de su vida. Y si puedes, haz una alusión a que Gordon Murray se inspiraría en aquel conecpto del ventilador para el McLaren F1 15 años después.
+
+-En el texto del Ferrari F92A, en el texto de diseño, añade el nombre de Steve Nichols a los de Harvey Postlethwaite y Jean-Claude Migeot.
+
+-En el texto del Williams FW26, alude a que a mitad de temporada el equipo implementó una parte delantera convencional después de los problemas con la puesta a punto del coche con aquel "morro morsa".
+
+-En el texto del Force India, añade una mención al fundamento técnico del S-Duct para el alerón delantero, así como un breve resumen de cómo su sucesor, el VJM09 de 2016, consolidó el concepto y llevó al equipo a su mejor temporada hasta entonces.
 
 Y por otro lado, las imágenes no se ven completas. Hay algunas que no se ven bien y te las paso de nuevo:
+La imagen de John Watson
+
+La imagen de Eric Van De Poele
+
+La imagen de Nico Hulkenberg
+
+
 
 En cuanto a estética, está bien organizado, pero me gustaría que fuese más agradable a la vista. Prueba con un fondo más oscuro y el texto en blanco, aunque siempre ajustándose a la temática de la web.
 
