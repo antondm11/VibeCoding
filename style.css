@@ -23,8 +23,8 @@ html {
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    color: var(--text-dark);
-    background-color: #fff;
+    color: white;
+    background-color: #333;
 }
 
 .container {

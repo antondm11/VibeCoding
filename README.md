@@ -64,6 +64,8 @@ https://github.com/antondm11/VibeCoding/blob/main/images/Coches/BrabhamBT46B.jpg
 
 Aquí el texto
 
+En la carrera de Anderstorp, Niki Lauda calificó aquella victoria como la más fácil de su vida. Este concepto del ventilador inspiraría a Gordon Murray para el diseño del McLaren F1 15 años después.
+
 Pilotos:
 Niki Lauda
 
@@ -131,7 +133,7 @@ Nicola Larini
 
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicolaLarini1992.jpg
 
-Diseño: Harvey Postlethwaite y Jean-Claude Migeot
+Diseño: Harvey Postlethwaite, Jean-Claude Migeot y Steve Nichols
 
 Williams FW26 - 2004
 Imagen del coche:
@@ -158,6 +160,8 @@ Antonio Pizzonia
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/AntonioPizzonia2004.jpg
 
 Diseño: Patrick Head y Antonia Terzi
+
+A mitad de temporada, el equipo implementó una parte delantera convencional después de los problemas con la puesta a punto del coche con aquel "morro morsa".
 
 Renault R31
 Imagen del coche:
@@ -198,6 +202,8 @@ Sergio Pérez
 https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/SergioPerez2015.jpg
 
 Diseño: Andrew Green, Ian Hall y Simon Phillips
+
+El Force India utilizó el S-Duct para el alerón delantero, y su sucesor, el VJM09 de 2016, consolidó este concepto, llevando al equipo a su mejor temporada hasta entonces.
 
 Mercedes W13 - 2022
 Imagen del coche:

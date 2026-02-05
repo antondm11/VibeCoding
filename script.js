@@ -181,3 +181,8 @@ document.addEventListener('keydown', function(event) {
         });
     }
 });
+
+// HTML para la barra deslizante del gráfico de podios
+<div class="slider">
+    <!-- Aquí va el código para la barra deslizante, si es necesario -->
+</div>
