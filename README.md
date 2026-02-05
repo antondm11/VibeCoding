@@ -64,8 +64,6 @@ https://github.com/antondm11/VibeCoding/blob/main/images/Coches/BrabhamBT46B.jpg
 
 Aquí el texto
 
-En la carrera de Anderstorp, Niki Lauda calificó aquella victoria como la más fácil de su vida. Este concepto del ventilador inspiraría a Gordon Murray para el diseño del McLaren F1 15 años después.
-
 Pilotos:
 Niki Lauda
 
@@ -73,7 +71,7 @@ https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NikiLauda1978.j
 
 John Watson
 
-https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/JohnWatson1978.jpg
+https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/JohnWatson.jpg
 
 Diseño: Gordon Murray
 
@@ -109,7 +107,7 @@ https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicolaLarini199
 
 Eric van de Poele
 
-https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/EricVanDePoele1992.jpg
+https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/EricVanDePoele.jpg
 
 Diseño: Mauro Forghieri y Mario Tolentino
 
@@ -195,7 +193,7 @@ Texto
 Pilotos:
 Nico Hulkenberg
 
-https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicoHulkenberg2015.jpg
+https://github.com/antondm11/VibeCoding/blob/main/images/Pilotos/NicoHulkenberg.jpg
 
 Sergio Pérez
 
