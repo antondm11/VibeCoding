@@ -223,68 +223,23 @@ Por último, en la parte de abajo de la página, quisiera un enlace a mi correo 
 
 
 ## PROMPT 2 ##
+Me gustaría que añadieras algunos aspectos de contenido, realizando sólo las modificaciones que te digo a continuación: 
 
-En general me gusta lo que veo, pero creo que se podrían mejorar cosas. 
-Por ejemplo, de contenido lo veo muy bien, pero me gustaría que refinaras algunas secciones de texto modificandolas sólo mínimamente, especialmente sin alterar apenas las explicaciones técnicas que me gustan bastante, para sólo agregar lo que yo te diga:
+-En el texto del Tyrrell P34, reemplaza la parte que dice que ganó 4 carreras por una que diga que sólo ganó una carrera en Anderstorp 1976.
 
--En el texto del Brabham BT46B, añade alguna referencia sobre que Niki Lauda calificó aquella victoria en Anderstorp como la más fácil de su vida. Y si puedes, haz una alusión a que Gordon Murray se inspiraría en aquel concepto del ventilador para el McLaren F1 15 años después.
+-En el texto del Ferrari F92A, sustituye la parte en que mencionas el concepto Touring por el de su doble fondo plano característico (sin eliminar lo que ya hay sobre los problemas del motor V12). Destaca los podios de Alesi frente a las dificultades de Capelli.
 
+Este enlace te puede ayudar a extraer la información: https://es.wikipedia.org/wiki/Ferrari_F92A. 
 
--En el texto del Williams FW26, alude puntualmente a que a mitad de temporada el equipo implementó una parte delantera convencional 
+-En el texto del Renault R31, haz hincapié en el original concepto de escapes laterales por delante de los pontones, en contraposición a la tendencia de escapes soplados de 2011. Haz una breve alusión a la que el monoplaza se diseñó acorde al estilo de pilotaje de Robert Kubica, pero el polaco no compitió por un grave accidente de rally.
 
--En el texto del Force India, añade una mención al fundamento técnico del S-Duct para el alerón delantero, así como un breve resumen de cómo su sucesor, el VJM09 de 2016, consolidó el concepto y llevó al equipo a su mejor temporada hasta entonces.
-
-Y por otro lado, las imágenes no se ven completas. Hay algunas que no se ven bien y te las paso de nuevo:
-
-
-En cuanto a estética, está bien organizado, pero me gustaría que fuese más agradable a la vista. Prueba con un fondo más oscuro y el texto en blanco, aunque siempre ajustándose a la temática de la web.
-
-Y el gráfico de podios, no es lo suficientemente preciso. Me gustaría que lo revisaras y que, al igual que las imágenes, lo hicieras más agradable a la vista y más intuitivo de moverse por él. Utiliza una barra deslizante si es necesario. Te doy enlaces para que de ahí saques el número de podios de cada coche:
-
--Tyrrell P34:
-
-https://www.statsf1.com/en/tyrrell-p34.aspx
-
--Brabham BT46B:
-
-https://www.statsf1.com/en/brabham-bt46b.aspx
-
--Tyrrell 019:
-
-https://www.statsf1.com/en/tyrrell-019.aspx
-
--Modena Lambo 291:
-
-https://www.statsf1.com/en/lamborghini.aspx
-
--Ferrari F921A:
-
-https://www.statsf1.com/en/ferrari-f92a.aspx
-
--Williams FW26:
-
-https://www.statsf1.com/en/williams-fw26.aspx
-
--Renault R31:
-
-https://www.statsf1.com/en/renault-r31.aspx
-
--Force India VJM08:
-
-https://www.statsf1.com/en/force-india-vjm08.aspx
-
--Force India VJM09:
-
-https://www.statsf1.com/en/force-india-vjm09.aspx
-
--Mercedes W13:
-
-https://www.statsf1.com/en/mercedes-f1-w13.aspx
+-En el texto del Mercedes W13, añade una importante mención al revolucionario concepto "sin pontones".
 
 
+## PROMPT 3 ##
 
-Y por último, si puedes crear algunos botones tras el texto introductorio. Por ejmplo, un botón que lleve a la sección de cada coche y al gráfico de la parte final.
+Además, quiero que descentres las imágenes de los pilotos para mostrarlas completas, y que, a ser posible, crees un enlace a cada foto original de forma que cuando se pinche en ella, se abra la imagen completa. Descentra también las imágenes del Renault R31, el Tyrrell P34 y el Tyrrell 019, mostrándolas al completo en su respectiva sección.
 
 
-
+El gráfico de podios no es lo suficientemente preciso, así que cambia en él sólo el número de podios del Force India VJM09 (2 podios) y el Tyrrell 019 (2 podios). 
 
