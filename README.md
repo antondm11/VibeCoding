@@ -225,13 +225,13 @@ Por último, en la parte de abajo de la página, quisiera un enlace a mi correo 
 ## PROMPT 2 ##
 Me gustaría que añadieras algunos aspectos de contenido, realizando sólo las modificaciones que te digo a continuación: 
 
--En el texto del Tyrrell P34, reemplaza la parte que dice que ganó 4 carreras por una que diga que sólo ganó una carrera en Anderstorp 1976.
+-En el texto del Tyrrell P34, reemplaza la parte que dice "ganando cuatro carreras" por una que diga que "ganando una carrera en Anderstorp en 1976".
 
--En el texto del Ferrari F92A, sustituye la parte en que mencionas el concepto Touring por el de su doble fondo plano característico (sin eliminar lo que ya hay sobre los problemas del motor V12). Destaca los podios de Alesi frente a las dificultades de Capelli.
+-En el texto del Tyrrell 019, añade que fue pionero en los morros elevados, una tendencia que irían adoptando posteriormente sus rivales.
 
-Este enlace te puede ayudar a extraer la información: https://es.wikipedia.org/wiki/Ferrari_F92A. 
+-En el texto del Ferrari F92A, sustituye la parte en la que mencionas el concepto Touring por el de su doble fondo plano característico (sin eliminar lo que ya hay sobre los problemas del motor V12). Destaca los podios de Alesi frente a las dificultades de Capelli. Este enlace te puede ayudar a extraer la información: https://es.wikipedia.org/wiki/Ferrari_F92A. 
 
--En el texto del Renault R31, haz hincapié en el original concepto de escapes laterales por delante de los pontones, en contraposición a la tendencia de escapes soplados de 2011. Haz una breve alusión a la que el monoplaza se diseñó acorde al estilo de pilotaje de Robert Kubica, pero el polaco no compitió por un grave accidente de rally.
+-En el texto del Renault R31, añade y resalta el original concepto de escapes laterales por delante de los pontones, en contraposición a la tendencia de escapes soplados de 2011. 
 
 -En el texto del Mercedes W13, añade una importante mención al revolucionario concepto "sin pontones".
 
@@ -240,6 +240,69 @@ Este enlace te puede ayudar a extraer la información: https://es.wikipedia.org/
 
 Además, quiero que descentres las imágenes de los pilotos para mostrarlas completas, y que, a ser posible, crees un enlace a cada foto original de forma que cuando se pinche en ella, se abra la imagen completa. Descentra también las imágenes del Renault R31, el Tyrrell P34 y el Tyrrell 019, mostrándolas al completo en su respectiva sección.
 
-
 El gráfico de podios no es lo suficientemente preciso, así que cambia en él sólo el número de podios del Force India VJM09 (2 podios) y el Tyrrell 019 (2 podios). 
+
+## PROMPT 4 ##
+
+Descentra también las imágenes del Ferrari F92A, el Williams FW26, el Force India y el Mercedes W13, mostrándolas al completo en su respectiva sección.
+
+En el pie de página donde se pone el copyright de la página, antes del contacto, cambia el año de "2024" a "2026".
+
+## PROMPT 5 ##
+
+Sustituye el proceso de "crear un enlace a cada foto original de forma que cuando se pinche en ella, se abra la imagen completa" por "crear un enlace en la foto de cada piloto a su respectiva entrada en StatsF1". Te dejo los enlaces a continuación en función del piloto:
+
+Jody Scheckter: https://www.statsf1.com/en/jody-scheckter.aspx
+
+Patrick Depailler: https://www.statsf1.com/en/patrick-depailler.aspx
+
+Ronnie Peterson: https://www.statsf1.com/en/ronnie-peterson.aspx
+
+
+Niki Lauda: https://www.statsf1.com/en/niki-lauda.aspx
+
+John Watson: https://www.statsf1.com/en/john-watson.aspx
+
+
+Jean Alesi: https://www.statsf1.com/en/jean-alesi.aspx
+
+Satoru Nakajima: https://www.statsf1.com/en/satoru-nakajima.aspx
+
+
+Nicola Larini: https://www.statsf1.com/en/nicola-larini.aspx
+
+Eric van de Poele: https://www.statsf1.com/en/eric-van-de-poele.aspx
+
+
+Ivan Capelli: https://www.statsf1.com/en/ivan-capelli.aspx
+
+
+Juan Pablo Montoya: https://www.statsf1.com/en/juan-pablo-montoya.aspx
+
+Ralf Schumacher: https://www.statsf1.com/en/ralf-schumacher.aspx
+
+Marc Gené: https://www.statsf1.com/en/marc-gene.aspx
+
+Antonio Pizzonia: https://www.statsf1.com/en/antonio-pizzonia.aspx
+
+
+Nick Heidfeld: https://www.statsf1.com/en/nick-heidfeld.aspx
+
+Vitaly Petrov: https://www.statsf1.com/en/vitaly-petrov.aspx
+
+Bruno Senna: https://www.statsf1.com/en/bruno-senna.aspx
+
+
+Nico Hulkenberg: https://www.statsf1.com/en/nico-hulkenberg.aspx
+
+Sergio Pérez: https://www.statsf1.com/en/sergio-perez.aspx
+
+
+Lewis Hamilton: https://www.statsf1.com/en/lewis-hamilton.aspx
+
+George Russell: https://www.statsf1.com/en/george-russell.aspx
+
+
+
+
 
